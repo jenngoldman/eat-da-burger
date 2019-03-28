@@ -1,0 +1,12 @@
+#burger-img {
+    height: 250px;
+    width: 250px;
+}
+
+#burgers-to-eat {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
